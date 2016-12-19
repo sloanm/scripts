@@ -1,0 +1,65 @@
+        pprdcc3as31f.corp.intuit.net:
+                    *.info @10.153.130.23
+--
+        pprdcc3db30d.corp.intuit.net:
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+        pprdfdsas307.corp.intuit.net:
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+        pprdpbias30a.corp.intuit.net:
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23
+--
+        pprdpbias31a.corp.intuit.net:
+                    *.info @10.153.130.23
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @10.153.130.23

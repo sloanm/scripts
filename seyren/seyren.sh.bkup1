@@ -1,0 +1,13 @@
+#!/bin/bash -x 
+
+
+
+#/usr/bin/java -jar seyren-api-intuit-wrapper-1.5.1.jar -f api.properties -c SEARCH_CHECK -d "name,(.*)pdu1-a-qcy__vl912_dcnet_intuit_net(.*)" |grep name
+
+for i in `cat 1final-hosts-only` ;
+do
+echo $i
+/usr/bin/java -jar seyren-api-intuit-wrapper-1.5.1.jar -f api.properties -c SEARCH_CHECK -d "name,(.*)$i(.*)" |grep name
+
+done  <  1final-hosts-only >  seyren-output 
+

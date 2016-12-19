@@ -1,0 +1,5 @@
+api.authenticate.uri = /api/user/authenticate
+host.name = lv1prdseyren01.corp.intuit.net
+host.port = 8080
+user.name = smiller19-admin	 
+user.password = Intuit4881638 

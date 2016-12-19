@@ -1,0 +1,17 @@
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @@10.153.128.36
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @@10.153.128.36
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @@10.153.128.36
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @@10.153.128.36
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @@10.153.128.36
+--
+                    *.info;mail.none;authpriv.none;cron.none                /var/log/messages
+                    *.info @@10.153.128.36

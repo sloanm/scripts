@@ -1,0 +1,221 @@
+        oprdcc3oc400.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdcc3ca400.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdcc3ca401.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdcc3ca402.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdcc3ca403.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdcc3ca404.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdcc3ca405.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdcc3db402.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdcc3db40b.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdcc3db40d.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap402.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap405.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap40w.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap40x.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap40y.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap410.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap411.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap412.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap413.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap415.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap416.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap417.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap418.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap419.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoap41a.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoas41u.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccoas41v.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccsas402.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccsas403.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccsas404.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccsas405.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccsas406.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccsas407.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdccsas408.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprddacas401.ie.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprddacas402.ie.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprddacas403.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprddacas404.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprddacas405.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprddacas406.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprddacas407.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprddh1db400.ie.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas400.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas401.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas402.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas403.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas404.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas405.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas406.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas407.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas408.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas409.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas40a.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas40b.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas40c.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas40d.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdfdsas40e.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdpbias400.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdpbias401.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdpbias402.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdpbias40a.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdpbias40b.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdpbias410.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdpbias411.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdpbias412.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdpbias41a.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdpbias41b.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdwsias401.ie.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdwsias403.ie.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdwsias404.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdwsias405.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdwsias406.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdwsias407.corp.intuit.net:
+                    *.info @10.172.0.36
+--
+        pprdwsias408.corp.intuit.net:
+                    *.info @10.172.0.36

@@ -1,0 +1,1 @@
+curl -usmiller19:$1 -T splunk-acl.sh "https://saltstore.corp.intuit.net/pi-tools/splunk/splunk-acl.sh"

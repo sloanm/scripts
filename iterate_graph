@@ -1,0 +1,18 @@
+#!/bin/bash
+
+
+while true
+#do 
+
+http://graphite-web.intuit.net/render?target=collectd.network.QCY-C.*.*.*.snmp.*Memory*&from=-10min&until=-5min&format=csv
+
+for I in
+
+do 
+	{
+		read url
+		read time
+		read memory
+	} < $I
+	echo "$url,$time,memory" >> outputfile.csv
+done

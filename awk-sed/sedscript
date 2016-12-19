@@ -1,0 +1,23 @@
+ow to combine multiple sed commands using option -e as shown below.
+
+Syntax:
+
+#sed -e 'command' -e 'command' filename
+
+
+sed -e 's/.snmp.cisco_cseCPU/ /g' hostnames-graphana.csv  > cpu-gone
+ sed -e 's/.snmp.cisco_ciscoMemoryPoolFree//g' hostnames-graphana.csv  > Memfree-gone
+ sed -e 's/.snmp.cisco_ciscoMemoryPoolFree//g' cpu-gone  > Memfree-gone
+ sed -e 's/.snmp.cisco_ciscoMemoryPoolUsed//g' memfree  > memused-gone
+ sed -e 's/.snmp.cisco_ciscoMemoryPoolUsed//g' Memfree  > memused-gone
+ sed -e 's/.snmp.cisco_ciscoMemoryPoolUsed//g' Memfree-gone  > memused-gone
+ sed -e 's/.snmp.cisco_cseMemory//g' memused-gone > memory-gone
+ sed -e 's/.latnecy//g' memory-gone > latency-gone
+ sed -e 's/.snmp.ironport_perCentMemoryUtilization//g' latency-gone > ironmemutil
+ sed -e 's/.snmp.ironport_cacheBusyCPUPct//g' ironmemutil > ironcpuct
+ sed -e 's/.snmp.nae_naeSystemStatCPU//g' ironcpuct > nae-cpu
+ sed -e 's/.snmp.ironport_perCentCPUUtilization//g' nae-cpu > done-final
+ sed -e 's/.latency//g' done-final > 1done-final
+
+
+# cut command   cut -f1 -d":"

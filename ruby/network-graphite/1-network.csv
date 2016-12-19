@@ -1,0 +1,10 @@
+nx-os,"",ac1-agg-w1-qcy__mgmt0_dcnet_intuit_net,cisco_cseCPU,8.0,collectd.network.QCY-A.nx-os.N5kC5020pBf.ac1-agg-w1-qcy__mgmt0_dcnet_intuit_net.snmp.cisco_cseCPU,2016-10-11 14:55:00
+nx-os,"",ac15-stor-w1-qcy__mgmt0_dcnet_intuit_net,cisco_cseCPU,8.0,collectd.network.QCY-A.nx-os.N5kC5020pBf.ac15-stor-w1-qcy__mgmt0_dcnet_intuit_net.snmp.cisco_cseCPU,2016-10-11 14:55:00
+nx-os,"",ac16-stor-w1-qcy__mgmt0_dcnet_intuit_net,cisco_cseCPU,0.0,collectd.network.QCY-A.nx-os.N5kC5020pBf.ac16-stor-w1-qcy__mgmt0_dcnet_intuit_net.snmp.cisco_cseCPU,2016-10-11 14:55:00
+nx-os,"",ac2-agg-w1-qcy__mgmt0_dcnet_intuit_net,cisco_cseCPU,0.0,collectd.network.QCY-A.nx-os.N5kC5020pBf.ac2-agg-w1-qcy__mgmt0_dcnet_intuit_net.snmp.cisco_cseCPU,2016-10-11 14:55:00
+nx-os,"",ac3-agg-w1-qcy__mgmt0_dcnet_intuit_net,cisco_cseCPU,0.0,collectd.network.QCY-A.nx-os.N5kC5596Up.ac3-agg-w1-qcy__mgmt0_dcnet_intuit_net.snmp.cisco_cseCPU,2016-10-11 14:55:00
+nx-os,"",ac4-agg-w1-qcy__mgmt0_dcnet_intuit_net,cisco_cseCPU,44.0,collectd.network.QCY-A.nx-os.N5kC5596Up.ac4-agg-w1-qcy__mgmt0_dcnet_intuit_net.snmp.cisco_cseCPU,2016-10-11 14:55:00
+nx-os,"",ac1-w1-qcy__mgmt0_dcnet_intuit_net,cisco_cseCPU,2.0,collectd.network.QCY-A.nx-os.N7Kc7010.ac1-w1-qcy__mgmt0_dcnet_intuit_net.snmp.cisco_cseCPU,2016-10-11 14:55:00
+nx-os,"",ac2-w1-qcy__mgmt0_dcnet_intuit_net,cisco_cseCPU,8.0,collectd.network.QCY-A.nx-os.N7Kc7010.ac2-w1-qcy__mgmt0_dcnet_intuit_net.snmp.cisco_cseCPU,2016-10-11 14:55:00
+nx-os,"",ac3-w1-qcy__mgmt0_dcnet_intuit_net,cisco_cseCPU,4.0,collectd.network.QCY-A.nx-os.N7Kc7010.ac3-w1-qcy__mgmt0_dcnet_intuit_net.snmp.cisco_cseCPU,2016-10-11 14:55:00
+nx-os,"",ac4-w1-qcy__mgmt0_dcnet_intuit_net,cisco_cseCPU,4.0,collectd.network.QCY-A.nx-os.N7Kc7010.ac4-w1-qcy__mgmt0_dcnet_intuit_net.snmp.cisco_cseCPU,2016-10-11 14:55:00

@@ -1,0 +1,22 @@
+#
+# After the match use ">>" to describe what you want to do
+#  use "LOG" to log to a file. If you add another ">>" after LOG enter the name of the file to write to
+#  if you dont enter a file, it will default to evtout.txt in the same directory as evtmon.exe
+# To launch a command, after the ">>" enter the name to a script to launch
+#  evtmon will pass the following variables in this order:
+#  Event_log_file,Time,Computer,Source,Type,Event-ID,Category,Description
+#  you will most likely need to create a script that will read these vars and pass it to another app
+# To send an SNMP trap, use TRAP
+#		You will have to specify in the evtmon.ini where to send to
+#		trap_host1 in the evtmon.ini specifies the primary SNMP Trap receiver
+#		trap_host2 in the evtmon.ini specifies the seconary SNMP Trap receiver
+# To send to a Syslog host, use SYSLOG
+#		In the evtmon.ini file, specify where you want to send the syslog messages
+#		by using the syslog_host entry
+#
+# You do NOT need to restart the agent if you update these pattern files. You do, however 
+#  need to restart the agent if you change the ini file.
+#
+####################################################################################
+#Computer: .* Source: .* Type: ERROR Event-ID: .* Category: .* Description: .*
+#Computer: .* Source: .* Type: .* Event-ID: .* Category: .* Description: .*boo.*
