@@ -46,6 +46,10 @@ if [ "$os3" == "RedHat" ]; then
                 echo "$i does not have the correct the current ip is: $ip"
                 echo "QDC C RHEL/OEL upgrade to VIP IP"
                 salt -L $i cmd.script salt://intu/pi-enttools/Rsyslog/RemediateRsyslogClient.sh qdcC-vip
+                else
+                salt $i cmd.run "salt-call service.stop rsyslog"
+                sleep 3
+                salt $i cmd.run "salt-call service.start rsyslog"
         fi
         cat rhel-1   |  tee os-release-output
 fi
