@@ -1,8 +1,14 @@
 #!/bin/bash
 
-#time=30
-time=60
-#time=600
+#time=2520
+#BC calculator 360 seconds for one hour x 7 hours
+
+time=`echo " 7 * 60 * 60"|bc`
+echo "Time is set to seconds" $time
+
+#seven hours times 60 minutes times 60 seconds so sleep can read it correctly  $time *
+seconds=`echo '360 * 7' | bc` ; echo " this script runs for:  " $seconds
+
 current_dir=`pwd`
 hostname=`hostname`
 tcpdump -n udp dst port 514 > output-tcpdump & VAR=$! ; sleep $time ; kill $VAR
@@ -36,6 +42,7 @@ echo > $current_dir/hosts1
 
 echo "##################"
 echo "###"
-echo "### Resulting file is $hostname.nodegroups "
+echo "###"  seconds=`echo '360 * 7' | bc` ; echo " this script ran for:  " $seconds "
+echo "###" #" Resulting file is $hostname.nodegroups "
 echo "###"
 echo "##################"
